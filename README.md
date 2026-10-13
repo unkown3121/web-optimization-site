@@ -3,3 +3,4 @@ A simple one page website created to help complete beginners learn HTML basics, 
 
 [Run the example live](http://mdn.github.io/beginner-html-site-styled/).
 Цель форка: изучить как работать с GutHunPages
+Авторство: https://github.com/mdn/beginner-html-site-styled
